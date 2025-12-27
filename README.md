@@ -1,0 +1,1 @@
+# earthmind_highres
