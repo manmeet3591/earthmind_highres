@@ -1,0 +1,34 @@
+Copyright (c) 2026 Manmeet Singh
+
+All rights reserved.
+
+Permission is granted to the recipient ("Collaborator") to view and use this code solely for the purpose of evaluation and collaborative development with the original author.
+
+STRICT LIMITATIONS:
+
+1. Ownership
+   - The original author retains full ownership of this code and all prior work.
+   - No part of this code may be claimed, presented, or implied as the sole work of the Collaborator.
+
+2. No Redistribution
+   - The Collaborator may NOT copy, distribute, sublicense, or share this code, in whole or in part, with any third party without explicit written permission from the original author.
+
+3. No Independent Use
+   - The Collaborator may NOT use this code, or any derivative of it, in any project, research, publication, or organization (including NASA or affiliated entities) without explicit written consent from the original author.
+
+4. Attribution Requirement
+   - Any use, discussion, or derivative work must include clear and visible attribution to the original author.
+
+5. No Commercial or Institutional Use
+   - This code may NOT be used for commercial, institutional, or governmental purposes without a separate written agreement.
+
+6. Contributions
+   - Any modifications or contributions made by the Collaborator are considered joint work but do NOT override the original author's ownership of the base code.
+
+7. Revocation
+   - The original author reserves the right to revoke access and permissions at any time.
+
+8. No Warranty
+   - This software is provided "as is", without warranty of any kind.
+
+By accessing or using this code, the Collaborator agrees to all terms stated above.
